@@ -28,3 +28,11 @@ Envoyer le commit local vers le dépôt distant github
 ```bash
 git push -u origin master
 ```
+
+## Cloner un projet
+
+```bash
+cd dossierProjet # Se positionner dans votre dossier de travail
+
+git clone https://...
+```
